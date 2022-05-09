@@ -30,3 +30,15 @@ ___
     - upapply
     - applySpec
     - applyTo
+
+___
+
+- Part four:
+    - ascend
+    - descend
+    - sort
+    - assoc
+    - dissoc
+    - pick
+    - assocPath
+    - dissocPath
