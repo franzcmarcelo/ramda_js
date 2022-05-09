@@ -20,3 +20,13 @@ ___
     - any
     - anyPass
     - ap
+
+___
+
+- Part three:
+    - aperture
+    - append
+    - apply
+    - upapply
+    - applySpec
+    - applyTo
