@@ -11,3 +11,12 @@ ___
     - adjust
     - all
     - allPass
+
+___
+
+- Part two:
+    - allways
+    - and
+    - any
+    - anyPass
+    - ap
