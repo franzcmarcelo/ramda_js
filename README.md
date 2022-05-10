@@ -42,3 +42,10 @@ ___
     - pick
     - assocPath
     - dissocPath
+
+___
+
+- Part five:
+    - binary
+    - unary
+    - nAry
