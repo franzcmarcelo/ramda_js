@@ -4,7 +4,7 @@
 
 ___
 
-- Part one:
+- Part 1:
     - placeholder "__"
     - add
     - addIndex
@@ -14,7 +14,7 @@ ___
 
 ___
 
-- Part two:
+- Part 2:
     - allways
     - and
     - any
@@ -23,7 +23,7 @@ ___
 
 ___
 
-- Part three:
+- Part 3:
     - aperture
     - append
     - apply
@@ -33,7 +33,7 @@ ___
 
 ___
 
-- Part four:
+- Part 4:
     - ascend
     - descend
     - sort
@@ -45,7 +45,12 @@ ___
 
 ___
 
-- Part five:
+- Part 5:
     - binary
     - unary
     - nAry
+
+___
+
+- Part 6:
+    - bind
