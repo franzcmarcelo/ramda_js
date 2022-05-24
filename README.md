@@ -54,3 +54,11 @@ ___
 
 - Part 6:
     - bind
+
+___
+
+- Part 7:
+    - both
+    - flip
+    - call
+    - converge
